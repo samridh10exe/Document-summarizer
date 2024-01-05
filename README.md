@@ -2,7 +2,7 @@
 
 # Text Summarizer
 
-This Python script utilizes the tkinter library to create a simple graphical user interface (GUI) for summarizing text content. The summarization is performed using a pre-trained BERT-based model for summarization from the transformers library.
+This Python script utilizes the tkinter library to create a simple graphical user interface (GUI) for summarizing text content. The summarization is performed using a pre-trained BERT-based model for summarization from the transformers library, introducing elements of Machine Learning (ML) and Natural Language Processing (NLP).
 
 ## Dependencies
 Make sure you have the required libraries installed. You can install them using the following commands:
@@ -39,7 +39,7 @@ pip install tkinter transformers beautifulsoup4 requests
 
 ## Important Notes:
 - The summarization model used is "sshleifer/distilbart-cnn-12-6."
-- The maximum and minimum length, length penalty, number of beams, and early stopping parameters are set for optimal summarization performance. Feel free to adjust these values based on your preferences.
+- The maximum and minimum length, length penalty, number of beams, and early stopping parameters are set for optimal ML and NLP-based summarization performance. Feel free to adjust these values based on your preferences.
 
 ## Acknowledgments:
 - The summarization model is powered by the transformers library.
