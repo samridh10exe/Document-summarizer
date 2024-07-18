@@ -39,7 +39,7 @@ pip install tkinter transformers beautifulsoup4 requests
 
 ## Important Notes:
 - The summarization model used is "sshleifer/distilbart-cnn-12-6."
-- The maximum and minimum length, length penalty, number of beams, and early stopping parameters are set for optimal ML and NLP-based summarization performance. Feel free to adjust these values based on your preferences.
+- The maximum and minimum length, length penalty, number of beams, and early stopping parameters are set for optimal ML and NLP-based summarization performance. 
 
 ## Acknowledgments:
 - The summarization model is powered by the transformers library.
